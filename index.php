@@ -4,5 +4,10 @@ echo 'Local test 2';
 echo 'back master';
 =======
 echo 'Local staging';
+<<<<<<< HEAD
+>>>>>>> staging
+=======
+
+echo 'back';
 >>>>>>> staging
 ?>
